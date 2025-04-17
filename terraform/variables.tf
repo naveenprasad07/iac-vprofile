@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-# this is a test whether it runs on main push
+# this is a test
